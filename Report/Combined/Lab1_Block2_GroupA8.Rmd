@@ -23,7 +23,7 @@ library(randomForest)
 library(dplyr)
 library(ggplot2)
 library(knitr)
-#library(kableExtra)
+library(kableExtra)
 ```
 
 For this Ensemble methods assignment, 3 test datasets of dimension 1000 x 3 were
