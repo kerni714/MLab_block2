@@ -498,7 +498,7 @@ It can be seen that the number of iterations of the EM algorithm increased with 
 
 Assignment 1 was contributed by Alan Cacique and Tugce Izci.
 Assignment 2 was contributed by Kerstin Nilsson.
-All three assignments procedures and results were reviewed and discussed before 
+Both assignments procedures and results were reviewed and discussed before 
 the creation of the final report. 
 
 \newpage
