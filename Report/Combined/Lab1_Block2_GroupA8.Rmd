@@ -1,7 +1,7 @@
 ---
 title: "Computer Lab 1 block 2"
 output: pdf_document
-author: "Alan Cacique Tamariz (alaca734) , Tugce Izci (tugiz798) and Kerstin Nilsson (kerni714)"
+author: "Alan Cacique Tamariz (alaca734), Tugce Izci (tugiz798) and Kerstin Nilsson (kerni714)"
 date: "2022-12-08"
 ---
 ```{r setup, include=FALSE}
